@@ -29,6 +29,11 @@ export default {
   created() {
     this.num = this.$loadStorage('num')
     this.sample = this.$loadStorage('sample')
+    this.$api.post('asd').then(res => {
+
+    }).catch(err => {
+      
+    })
   },
   methods: {
     add() {
