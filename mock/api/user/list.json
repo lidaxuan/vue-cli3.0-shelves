@@ -1,0 +1,47 @@
+{
+  "code": 10000,
+  "data": {
+    "page_no": 1,
+    "page_size": 4,
+    "total_page": 1,
+    "total_count": 4,
+    "first_page": 1,
+    "last_page": 1,
+    "list": [
+      {
+        "id": 5,
+        "nickname": "供应商账户",
+        "email": "supplier.com",
+        "user_type": "供应商账户",
+        "status": 1,
+        "role_name": "运维管理员"
+      },
+      {
+        "id": 4,
+        "nickname": "运维账户",
+        "email": "devops.com",
+        "user_type": "运维账户",
+        "status": 1,
+        "role_name": "供应商管理员"
+      },
+      {
+        "id": 3,
+        "nickname": "媒介账户",
+        "email": "medium.com",
+        "user_type": "媒介账户",
+        "status": 1,
+        "role_name": "媒介管理员"
+      },
+      {
+        "id": 2,
+        "nickname": "品牌账户",
+        "email": "brand.com",
+        "user_type": "品牌账户",
+        "status": 1,
+        "role_name": "品牌管理员"
+      }
+    ]
+  },
+  "msg": "成功",
+  "trace_id": 1585534940574332000
+}

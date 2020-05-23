@@ -1,0 +1,75 @@
+{
+  "code": 10000,
+  "data": {
+    "demand_name": "需求1",
+    "demand_id": 1,
+    "status": 1,
+    "date": "2020-03-30",
+    "brand_name": "品牌名称1",
+    "content": "投放需求1",
+    "list": [{
+        "platform_name": "微信",
+        "list": [{
+            "platform_id": 1,
+            "account_name": "adasdasd",
+            "kol_id": "1",
+            "advertisement_name": "头条",
+            "content_name": "图文",
+            "commerce": 1,
+            "remark": "否",
+            "other_name": [
+              "小程序",
+              "二维码"
+            ]
+          },
+          {
+            "platform_id": 1,
+            "account_name": "adasdasd",
+            "kol_id": "1",
+            "advertisement_name": "次条",
+            "content_name": "链接",
+            "commerce": 1,
+            "remark": "否",
+            "other_name": [
+              "小程序",
+              "二维码"
+            ]
+          },
+          {
+            "platform_id": 1,
+            "account_name": "zxczxczxczx",
+            "kol_id": "2",
+            "advertisement_name": "头条",
+            "content_name": "图文",
+            "commerce": 1,
+            "remark": "否",
+            "other_name": [
+              "小程序",
+              "二维码"
+            ]
+          }
+        ],
+        "platform_id": 1
+      },
+      {
+        "platform_name": "微博",
+        "list": [{
+          "platform_id": 2,
+          "account_name": "jkhjkhjkhkj",
+          "kol_id": "3",
+          "advertisement_name": "头条",
+          "content_name": "图文",
+          "commerce": 1,
+          "remark": "否",
+          "other_name": [
+            "小程序",
+            "二维码"
+          ]
+        }],
+        "platform_id": 2
+      }
+    ]
+  },
+  "msg": "成功",
+  "trace_id": 1585739464310773000
+}

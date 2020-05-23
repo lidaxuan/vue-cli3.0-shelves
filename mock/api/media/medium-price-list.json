@@ -1,0 +1,265 @@
+{
+  "code": 10000,
+  "data": {
+    "page_no": 1,
+    "page_size": 10,
+    "total_page": 1,
+    "total_count": 4,
+    "first_page": 1,
+    "last_page": 1,
+    "list": [
+      {
+        "id": 3,
+        "supplier_name": "",
+        "supplier_id": 3,
+        "rate": 70000,
+        "price": 900000,
+        "status": 1,
+        "detail": [
+          {
+            "platform_name": "微信",
+            "detail": [
+              {
+                "id": 5,
+                "kol_id": "1",
+                "account_name": "adasdasd",
+                "advertisement_type": 2,
+                "advertisement_name": "次条",
+                "content_type": 2,
+                "content_Name": "链接",
+                "other": [
+                  "1",
+                  "2"
+                ],
+                "other_name": [
+                  "微信",
+                  "微博"
+                ],
+                "commerce": 1,
+                "price": 20000,
+                "is_exit": 1,
+                "remark": "奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说",
+                "start_date": "0000-00-00",
+                "end_date": "0000-00-00",
+                "platform_id": 1
+              }
+            ],
+            "platform_id": 1
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "supplier_name": "",
+        "supplier_id": 3,
+        "rate": 10000,
+        "price": 500000,
+        "status": 2,
+        "detail": [
+          {
+            "platform_name": "微信",
+            "detail": [
+              {
+                "id": 7,
+                "kol_id": "1",
+                "account_name": "adasdasd",
+                "advertisement_type": 2,
+                "advertisement_name": "次条",
+                "content_type": 2,
+                "content_Name": "链接",
+                "other": [
+                  "1",
+                  "2"
+                ],
+                "other_name": [
+                  "微信",
+                  "微博"
+                ],
+                "commerce": 0,
+                "price": 60000,
+                "is_exit": 1,
+                "remark": "奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说",
+                "start_date": "0000-00-00",
+                "end_date": "0000-00-00",
+                "platform_id": 1
+              }
+            ],
+            "platform_id": 1
+          },
+          {
+            "platform_name": "微博",
+            "detail": [
+              {
+                "id": 6,
+                "kol_id": "3",
+                "account_name": "jkhjkhjkhkj",
+                "advertisement_type": 2,
+                "advertisement_name": "次条",
+                "content_type": 2,
+                "content_Name": "链接",
+                "other": [
+                  "1",
+                  "2"
+                ],
+                "other_name": [
+                  "微信",
+                  "微博"
+                ],
+                "commerce": 0,
+                "price": 100000,
+                "is_exit": 1,
+                "remark": "奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说",
+                "start_date": "0000-00-00",
+                "end_date": "0000-00-00",
+                "platform_id": 2
+              }
+            ],
+            "platform_id": 2
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "supplier_name": "",
+        "supplier_id": 2,
+        "rate": 5000,
+        "price": 50000,
+        "status": 2,
+        "detail": [
+          {
+            "platform_name": "微信",
+            "detail": [
+              {
+                "id": 4,
+                "kol_id": "2",
+                "account_name": "zxczxczxczx",
+                "advertisement_type": 2,
+                "advertisement_name": "次条",
+                "content_type": 2,
+                "content_Name": "链接",
+                "other": [
+                  "1",
+                  "2"
+                ],
+                "other_name": [
+                  "微信",
+                  "微博"
+                ],
+                "commerce": 0,
+                "price": 30000,
+                "is_exit": 1,
+                "remark": "奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说",
+                "start_date": "0000-00-00",
+                "end_date": "0000-00-00",
+                "platform_id": 1
+              }
+            ],
+            "platform_id": 1
+          },
+          {
+            "platform_name": "微博",
+            "detail": [
+              {
+                "id": 3,
+                "kol_id": "3",
+                "account_name": "jkhjkhjkhkj",
+                "advertisement_type": 2,
+                "advertisement_name": "次条",
+                "content_type": 2,
+                "content_Name": "链接",
+                "other": [
+                  "1",
+                  "2"
+                ],
+                "other_name": [
+                  "微信",
+                  "微博"
+                ],
+                "commerce": 1,
+                "price": 30000,
+                "is_exit": 1,
+                "remark": "奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说",
+                "start_date": "0000-00-00",
+                "end_date": "0000-00-00",
+                "platform_id": 2
+              }
+            ],
+            "platform_id": 2
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "supplier_name": "",
+        "supplier_id": 1,
+        "rate": 5000,
+        "price": 800000,
+        "status": 2,
+        "detail": [
+          {
+            "platform_name": "微信",
+            "detail": [
+              {
+                "id": 1,
+                "kol_id": "1",
+                "account_name": "adasdasd",
+                "advertisement_type": 1,
+                "advertisement_name": "啦啦头条",
+                "content_type": 1,
+                "content_Name": "图文",
+                "other": [
+                  "1",
+                  "2"
+                ],
+                "other_name": [
+                  "微信",
+                  "微博"
+                ],
+                "commerce": 1,
+                "price": 10000,
+                "is_exit": 1,
+                "remark": "奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说",
+                "start_date": "0000-00-00",
+                "end_date": "0000-00-00",
+                "platform_id": 1
+              }
+            ],
+            "platform_id": 1
+          },
+          {
+            "platform_name": "微博",
+            "detail": [
+              {
+                "id": 2,
+                "kol_id": "2",
+                "account_name": "zxczxczxczx",
+                "advertisement_type": 2,
+                "advertisement_name": "啦啦次条",
+                "content_type": 2,
+                "content_Name": "连接",
+                "other": [
+                  "1",
+                  "2"
+                ],
+                "other_name": [
+                  "微信",
+                  "微博"
+                ],
+                "commerce": 1,
+                "price": 20000,
+                "is_exit": 0,
+                "remark": "奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说奥术大师大所多是法国恢复健康韩国破煞到拉收到回复你说",
+                "start_date": "0000-00-00",
+                "end_date": "0000-00-00",
+                "platform_id": 2
+              }
+            ],
+            "platform_id": 2
+          }
+        ]
+      }
+    ]
+  },
+  "msg": "成功",
+  "trace_id": 1585732516852752000
+}

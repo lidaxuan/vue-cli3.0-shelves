@@ -34,6 +34,11 @@ export default {
     }).catch(err => {
       
     })
+    this.$api.post('/user/getUserInfo').then(res => {
+
+    }).catch(err => {
+      
+    })
   },
   methods: {
     add() {

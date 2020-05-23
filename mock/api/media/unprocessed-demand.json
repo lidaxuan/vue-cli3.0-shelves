@@ -1,0 +1,39 @@
+{
+  "code": "10000",
+  "data": {
+    "page_no": "oaWygd",
+    "page_size": "!G)FI",
+    "total_page": 3,
+    "total_count": "QlI00",
+    "first_page": "W]![U",
+    "last_page": "hGnNu7",
+    "list": [
+      {
+        "account": "z7H",
+        "brand_id": "ccYo",
+        "brand_name": "&0EFtJ",
+        "date": "lyx0",
+        "id": "Y5UXtQ",
+        "name": "^sjwM"
+      },
+      {
+        "account": "z7H",
+        "brand_id": "ccYo",
+        "brand_name": "&0EFtJ",
+        "date": "lyx0",
+        "id": "Y5UXtQ1",
+        "name": "^sjwM"
+      },
+      {
+        "account": "z7H",
+        "brand_id": "ccYo",
+        "brand_name": "&0EFtJ",
+        "date": "lyx0",
+        "id": "Y5UXtQ2",
+        "name": "^sjwM"
+      }
+    ]
+  },
+  "msg": null,
+  "trace_id": "G%^y@A"
+}

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "demand": 123123,
+    "demand_date": {
+      "key": ["Mon", "Mon", "Mon", "Mon", "Mon", "Mon"],
+      "value": [820, 932, 901, 934, 1290, 1330, 1320]
+    },
+    "demand_pending": 123123,
+    "kol": 123123,
+    "platform": [
+      {
+        "account": 3561,
+        "platform_name": "asdasd"
+      },
+      {
+        "account": 35261,
+        "platform_name": "感觉很疯狂"
+      }
+    ],
+    "tag": {
+      "black": 123,
+      "white": 56
+    },
+    "type": {
+      "key": [],
+      "value": []
+    },
+    "account_white": "123123"
+  },
+  "code": "10000",
+  "msg": null
+}

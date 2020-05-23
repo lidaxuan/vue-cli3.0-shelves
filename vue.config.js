@@ -1,6 +1,6 @@
 const path = require('path');
-// const mock = require('./mock/index');
 
+const mock = require('./mock/index');
 function resolve (dir) {
   return path.join(__dirname, dir);
 }
@@ -59,6 +59,6 @@ module.exports = {
       // proxy: {
       // }, // 设置代理
     };
-    // mock.api(config.devServer);
+    mock.api(config.devServer);
   },
 };

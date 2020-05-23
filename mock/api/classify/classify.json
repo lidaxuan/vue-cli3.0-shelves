@@ -1,0 +1,102 @@
+{
+  "rspData": [
+    {
+      "id": "1",
+      "name": "风控",
+      "parentLevel": 0,
+      "children": [
+        {
+          "id": "11",
+          "name": "金融风控",
+          "parentLevel": "1",
+          "children": [
+            {
+              "id": "111",
+              "name": "金融风控-1",
+              "parentLevel": "11",
+              "children": []
+            },
+            {
+              "id": "112",
+              "name": "金融风控-2",
+              "parentLevel": "11",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "name": "营销风控",
+          "parentLevel": "1",
+          "children": [
+            {
+              "id": "121",
+              "name": "营销风控-1",
+              "parentLevel": "11",
+              "children": []
+            },
+            {
+              "id": "122",
+              "name": "营销风控-2",
+              "parentLevel": "11",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "营销",
+      "parentLevel": 0,
+      "children": [
+        {
+          "id": "21",
+          "name": "内容营销",
+          "parentLevel": "2",
+          "children": [
+            {
+              "id": "211",
+              "name": "内容营销-1",
+              "parentLevel": "21",
+              "children": []
+            },
+            {
+              "id": "212",
+              "name": "内容营销-2",
+              "parentLevel": "21",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "name": "广告营销",
+          "parentLevel": "2",
+          "children": [
+            {
+              "id": "221",
+              "name": "广告营销-1",
+              "parentLevel": "22",
+              "children": []
+            },
+            {
+              "id": "222",
+              "name": "广告营销-2",
+              "parentLevel": "22",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "反欺诈",
+      "parentLevel": 0,
+      "children": []
+    }
+  ],
+  "rspCode": "000000000",
+  "rspMsg": null
+}

@@ -1,0 +1,39 @@
+{
+  "code": 10000,
+  "data": {
+    "page_no": 1,
+    "page_size": 10,
+    "total_page": 1,
+    "total_count": 4,
+    "first_page": 1,
+    "last_page": 1,
+    "list": [
+      {
+        "id": 4,
+        "name": "运维管理员1",
+        "user_type": 4,
+        "remark": ""
+      },
+      {
+        "id": 3,
+        "name": "供应商管理员1",
+        "user_type": 3,
+        "remark": ""
+      },
+      {
+        "id": 2,
+        "name": "媒介管理员1",
+        "user_type": 2,
+        "remark": ""
+      },
+      {
+        "id": 1,
+        "name": "品牌管理员1",
+        "user_type": 1,
+        "remark": ""
+      }
+    ]
+  },
+  "msg": "成功",
+  "trace_id": 1585644321784124000
+}

@@ -1,0 +1,35 @@
+{
+  "code": 10000,
+  "data": {
+    "page_no": 1,
+    "page_size": 10,
+    "total_page": 1,
+    "total_count": 3,
+    "first_page": 1,
+    "last_page": 1,
+    "list": [{
+        "account_amount": 10,
+        "brand_name": "品牌名称1",
+        "commit_date": "2020-04-02",
+        "id": 1,
+        "status": 1
+      },
+      {
+        "account_amount": 20,
+        "brand_name": "品牌名称1",
+        "commit_date": "2020-04-09",
+        "id": 3,
+        "status": 2
+      },
+      {
+        "account_amount": 100,
+        "brand_name": "品牌名称2",
+        "commit_date": "2020-04-04",
+        "id": 2,
+        "status": 3
+      }
+    ]
+  },
+  "msg": "成功",
+  "trace_id": 1585816426848565000
+}

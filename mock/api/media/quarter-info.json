@@ -1,0 +1,37 @@
+{
+  "code": 10000,
+  "data": {
+    "account": {
+      "list": {
+        "page_no": 1,
+        "page_size": 15,
+        "total_page": 1,
+        "total_count": 1,
+        "first_page": 1,
+        "last_page": 1,
+        "list": [{
+          "account_id": "1",
+          "name": "哈哈",
+          "type": "手机"
+        }]
+      },
+      "platform_id": 1,
+      "platform_name": "微信"
+    },
+    "platform": [{
+        "id": 1,
+        "name": "微信"
+      },
+      {
+        "id": 2,
+        "name": "微博"
+      },
+      {
+        "id": 3,
+        "name": "小红书"
+      }
+    ]
+  },
+  "msg": "成功",
+  "trace_id": 1585823669979872000
+}

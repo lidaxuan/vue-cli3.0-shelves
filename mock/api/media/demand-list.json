@@ -1,0 +1,32 @@
+{
+  "code": 10000,
+  "data": {
+    "page_no": 1,
+    "page_size": 2,
+    "total_page": 2,
+    "total_count": 3,
+    "first_page": 1,
+    "last_page": 2,
+    "list": [{
+        "account": "10",
+        "brand_id": "1",
+        "brand_name": "品牌名称1",
+        "date": "2020-03-30",
+        "id": "1",
+        "name": "需求1",
+        "status": "1"
+      },
+      {
+        "account": "100",
+        "brand_id": "1",
+        "brand_name": "品牌名称1",
+        "date": "2020-03-30",
+        "id": "2",
+        "name": "需求2",
+        "status": "5"
+      }
+    ]
+  },
+  "msg": "成功",
+  "trace_id": 1585623543213814000
+}
